@@ -1,0 +1,14 @@
+[project]
+name = "heritage-hub"
+version = "0.1.0"
+description = "Community-driven local history collector using Streamlit"
+authors = [
+    { name = "Heritage Hub Contributors" }
+]
+license = { file = "LICENSE" }
+dependencies = [
+    "streamlit",
+]
+
+[tool.ruff]
+line-length = 88

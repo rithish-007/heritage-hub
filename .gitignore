@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+archive/*.wav
+archive/*.mp3
+archive/*.m4a
+archive/stories.json
