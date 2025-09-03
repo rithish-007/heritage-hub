@@ -1,14 +1,30 @@
-## 🚀 Merge Request
+# 🚀 Merge Request Template
 
-**Description**
-- What feature/fix is added?
+Thank you for contributing to **Heritage Hub – Local History Collector** 🎉  
 
-**Checklist**
-- [ ] Code tested
-- [ ] Docs updated
-- [ ] Linter passed
+---
 
-**Screenshots (if UI change)**
+## Summary
+Provide a clear and concise explanation of your contribution.  
+Example: *“Added multilingual support for story submissions.”*
 
-**Related Issues**
-Closes #<issue-number>
+---
+
+---
+
+## Changes Introduced
+- [✓] New feature
+- [✓] Bug fix
+- [✓] Documentation update
+- [✓] Code refactor
+
+---
+---
+
+## Checklist
+- [✓] Code runs without errors
+- [✓] Tests added/updated
+- [✓] Documentation updated (README/CHANGELOG if needed)
+- [✓] No breaking changes introduced
+
+---
