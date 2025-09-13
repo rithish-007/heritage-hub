@@ -3,12 +3,20 @@ name = "heritage-hub"
 version = "0.1.0"
 description = "Community-driven local history collector using Streamlit"
 authors = [
-    { name = "Heritage Hub Contributors" }
+    { name = "Rithish Mettu", email = "rithishmettu7@gmail.com" }
 ]
 license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.10"
+
 dependencies = [
     "streamlit",
+    "pandas",
+    "numpy"
 ]
 
 [tool.ruff]
 line-length = 88
+
+[tool.uv]
+dev-dependencies = []
